@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b225a1b0-d399-4145-8f88-2e1a90992d17" name="Default Changelist" comment="Initial Check-in of the SeleniumEssentialTraining files 2/2&#10;Add a prefix to number directories and skip directory with a blank">
-      <change beforePath="$PROJECT_DIR$/src/Ex_02_02/.idea/02_02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_02_02/.idea/Ex_02_02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_05_03/.idea/05_03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_05_03/.idea/Ex_05_03.iml" afterDir="false" />
-    </list>
+    <list default="true" id="b225a1b0-d399-4145-8f88-2e1a90992d17" name="Default Changelist" comment="Adjust iml files starting with a number to match the directory Ex_*" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613077241295</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adjust iml files starting with a number to match the directory Ex_*">
+      <created>1613077467538</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613077467539</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +76,7 @@
     <MESSAGE value="Initial Check-in of the SeleniumEssentialTraining IntelliJ project and GitHub repository" />
     <MESSAGE value="Initial Check-in of the SeleniumEssentialTraining files 1/2" />
     <MESSAGE value="Initial Check-in of the SeleniumEssentialTraining files 2/2&#10;Add a prefix to number directories and skip directory with a blank" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Check-in of the SeleniumEssentialTraining files 2/2&#10;Add a prefix to number directories and skip directory with a blank" />
+    <MESSAGE value="Adjust iml files starting with a number to match the directory Ex_*" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust iml files starting with a number to match the directory Ex_*" />
   </component>
 </project>
