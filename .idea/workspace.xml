@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b225a1b0-d399-4145-8f88-2e1a90992d17" name="Default Changelist" comment="" />
+    <list default="true" id="b225a1b0-d399-4145-8f88-2e1a90992d17" name="Default Changelist" comment="Initial Check-in of the SeleniumEssentialTraining IntelliJ project and GitHub repository">
+      <change afterPath="$PROJECT_DIR$/Ex_Files_Selenium_EssT.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/client-combined-3.141.59-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/client-combined-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/libs/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/libs/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/libs/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/libs/okhttp-3.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/libs/okio-1.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-java/selenium-java-3.141.59.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +45,14 @@
       <option name="presentableId" value="Default" />
       <updated>1613070897097</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Check-in of the SeleniumEssentialTraining IntelliJ project and GitHub repository">
+      <created>1613073951257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613073951257</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -42,5 +66,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Check-in of the SeleniumEssentialTraining IntelliJ project and GitHub repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Check-in of the SeleniumEssentialTraining IntelliJ project and GitHub repository" />
   </component>
 </project>

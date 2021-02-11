@@ -1,5 +1,5 @@
 # /.idea/ # if you add the .idae file, the QA branch does not know it is a java project. All entries are in relationship to the project. There are no absolute paths.
 /out/
-/src/SeleniumEssentialTraining/chromedriver_mac64.zip
-/src/SeleniumEssentialTraining/Ex_Files_Selenium_EssT.zip
-/src/SeleniumEssentialTraining/selenium-java/selenium-java-3.141.59.zip
+/chromedriver_mac64.zip
+/Ex_Files_Selenium_EssT.zip
+/selenium-java/selenium-java-3.141.59.zip
