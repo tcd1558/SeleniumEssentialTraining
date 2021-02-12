@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b225a1b0-d399-4145-8f88-2e1a90992d17" name="Default Changelist" comment="01_04 works.">
-      <change afterPath="$PROJECT_DIR$/src/Ex_01_04/test/BHPSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_02_02/start/test/KeyboardAndMouseInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_01_04/test/TestSample.java.org" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_01_04/test/TestSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,15 +22,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Ex_02_02/start/test" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
-  <component name="RunManager" selected="Application.TestSample (1)">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Ex_02_02/start/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KeyboardAndMouseInput">
     <configuration name="BHPSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BHPSample" />
       <module name="SeleniumEssentialTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyboardAndMouseInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_02_02.start.test.KeyboardAndMouseInput" />
+      <module name="SeleniumEssentialTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_02_02.start.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -57,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeyboardAndMouseInput" />
         <item itemvalue="Application.TestSample (1)" />
         <item itemvalue="Application.BHPSample" />
         <item itemvalue="Application.TestSample" />
@@ -114,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613079108274</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="01_04 works.">
+      <created>1613086264740</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613086264740</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
