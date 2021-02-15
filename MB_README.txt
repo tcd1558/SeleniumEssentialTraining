@@ -76,8 +76,18 @@ SeleniumEssentialTraining IntelliJ IDEA project.
 Before everything goes haywire, update the github repository.
 Add, Commit, Push. 
 
+Add the JUnit jar file to the IntelliJ libraries:
+See also /Users/marco/IdeaProjects/InteliJIDEAGitHubFlow.txt
+Add all jar files with
+        Highlight the Project (01_04)
+        File > Project Structure (or CMD+;)
+        Project Setting > Libraries > click on the '+' in the middle pannel
+        New Project Library > Java
+        An explorer window pops up. Navigate to selenium-java
+        Select all *.jar libs/*.jar files, click on [open], click on [ok]
+        When all of them are listed, click on [ok]
 
-
+import static org.junit.Assert.assertEquals;
 
 
 
